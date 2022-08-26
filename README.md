@@ -6,10 +6,17 @@
 
 - Some recent projects made for RSSchool: 
             -- https://ekalape.github.io/Travel-Portal/
+            
             -- https://ekalape.github.io/photoPortfolio/
+            
+            -- https://ekalape.github.io/shelter/pages/main/
+            
             -- https://ekalape.github.io/WedDress/
-            -- https://ekalape.github.io/VirtualKeyboard/            
+            
+            -- https://ekalape.github.io/VirtualKeyboard/   
+            
             -- https://ekalape.github.io/memoryGame/
+            
  
 
 <!---
