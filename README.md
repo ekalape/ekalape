@@ -4,19 +4,19 @@
 - 💞️ I’m looking to collaborate on any inspiring project that I am able to contribute.
 - 📫 How to reach me: discord: @ekalape#6701 or email: ekalape@outlook.it
 
-- Some recent projects made for RSSchool: 
+- Some of the recent projects made for RSSchool: 
 - 
-            -- https://ekalape.github.io/Travel-Portal/
+            -- [Travel Portal](https://ekalape.github.io/Travel-Portal/)
             
-            -- https://ekalape.github.io/photoPortfolio/
+            -- [Photographer Portfolio](https://ekalape.github.io/photoPortfolio/)
             
-            -- https://ekalape.github.io/shelter/pages/main/
+            -- [Shelter project](https://ekalape.github.io/shelter/pages/main/)
             
-            -- https://ekalape.github.io/WedDress/
+            -- [Wedding e-shop project](https://ekalape.github.io/WedDress/)
             
-            -- https://ekalape.github.io/VirtualKeyboard/   
+            -- [Virtual keyboard](https://ekalape.github.io/VirtualKeyboard/)   
             
-            -- https://ekalape.github.io/memoryGame/
+            -- [Memory Card game](https://ekalape.github.io/memoryGame/)
             
  
 
