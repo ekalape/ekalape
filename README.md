@@ -6,7 +6,7 @@
 
 - Some of the recent projects made for RSSchool: 
 - 
-            -- [Travel Portal](https://ekalape.github.io/Travel-Portal/)
+            [Travel Portal](https://ekalape.github.io/Travel-Portal/)
             
             -- [Photographer Portfolio](https://ekalape.github.io/photoPortfolio/)
             
