@@ -10,6 +10,8 @@
             
             -- [SongBird quiz](https://ekalape.github.io/birdsQuiz/songbirds-quiz/intro-page/)
             
+            -- [Puzzle game](https://ekalape.github.io/puzzle/game)
+            
             -- [Photographer Portfolio](https://ekalape.github.io/photoPortfolio/)
             
             -- [Shelter project](https://ekalape.github.io/shelter/pages/main/)
