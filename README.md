@@ -6,7 +6,7 @@
 
 - Some of the recent projects made for RSSchool: 
 - 
-            -- [Travel Portal](https://ekalape.github.io/Travel-Portal/)
+            -- [Online zoo site]([https://ekalape.github.io/Travel-Portal/](https://ekalape.github.io/online-zoo/online-zoo/pages/main/))
             
             -- [SongBird quiz](https://ekalape.github.io/birdsQuiz/songbirds-quiz/intro-page/)
             
@@ -17,6 +17,8 @@
             -- [Shelter project](https://ekalape.github.io/shelter/pages/main/)
             
             -- [Wedding e-shop project](https://ekalape.github.io/WedDress/)
+            
+            -- [Travel Portal](https://ekalape.github.io/Travel-Portal/)
             
             -- [Virtual keyboard](https://ekalape.github.io/VirtualKeyboard/)   
             
