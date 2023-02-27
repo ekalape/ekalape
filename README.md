@@ -1,8 +1,10 @@
-- 👋 ##Hi, my name is Katerina!
-- 👀 I’m interested in programming, web and game development, web design.
-- 🌱 I’m currently learning javascript, node.js, css.
-- 💞️ I’m looking to collaborate on any inspiring project that I am able to contribute.
-- 📫 How to reach me: discord: @ekalape#6701 or email: ekalape@outlook.it
+- ✨ ##Hi, my name is Katerina!
+- ✨ I'm Junior Front-End Developer
+- ✨ I code with Javascript and Typescript, use React, Redux toolkit.
+- ✨ Decent knowledge of HTML and CSS, SCSS, Webpack, GIT, Node.js
+- ✨ I’m interested in programming, web and game development, web design.
+- ✨ I’d be happy to collaborate and contribute to any inspiring project.
+- ✨ How to reach me: discord: @ekalape#6701 or email: ekalape@outlook.it
 
 - Some of the recent projects made for RSSchool: 
 
