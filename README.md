@@ -8,6 +8,8 @@
 
 - Some of the recent projects made for RSSchool: 
 
+            -- [Tron game](https://rsclone-tron-game.netlify.app/)
+
             -- [Online zoo site](https://ekalape.github.io/online-zoo/online-zoo/pages/main/)
             
             -- [Online-store team project](https://ekalape-viktorelenich-online-store.netlify.app/)
