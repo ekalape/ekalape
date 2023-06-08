@@ -1,5 +1,5 @@
 ## Hi, my name is Katerina!
- I'm Junior Front-End Developer
+ I'm a Front-End Developer
  I code with Javascript and Typescript, use React, Redux toolkit.
  Decent knowledge of HTML and CSS, SCSS, Webpack, GIT, Node.js
  I’m interested in programming, web and game development, web design.
@@ -7,6 +7,7 @@
 - How to reach me: discord: @ekalape#6701 or email: ekalape@outlook.it
 
 ### Some of the recent projects made for RSSchool: 
+[GraphiQL Custom Implementation](https://graphiqlrss.netlify.app/)             
 [Tron game](https://rsclone-tron-game.netlify.app/)             
 [Online zoo site](https://ekalape.github.io/online-zoo/online-zoo/pages/main/)            
 [Online-store team project](https://ekalape-viktorelenich-online-store.netlify.app/)            
@@ -19,6 +20,16 @@
 [Memory Card game](https://ekalape.github.io/memoryGame/)
             
  
+Stack:
+
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 <!---
 ekalape/ekalape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
