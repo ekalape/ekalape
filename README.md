@@ -1,6 +1,6 @@
 ## Hi, my name is Katerina!
  I'm a Front-End Developer
- I code with Javascript and Typescript, use React, Redux toolkit.
+ I code with Javascript and Typescript, use React, Angular, Rxjs, Redux toolkit & ngRx, Nest.js.
  Decent knowledge of HTML and CSS, SCSS, Webpack, GIT, Node.js
  I’m interested in programming, web and game development, web design.
  I’d be happy to collaborate and contribute to any inspiring project.
@@ -28,6 +28,7 @@ Stack:
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![A](https://img.shields.io/badge/angular-yellow?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
