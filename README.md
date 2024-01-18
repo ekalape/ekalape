@@ -7,6 +7,9 @@
 - How to reach me: discord: @ekalape#6701 or email: ekalape@outlook.it
 
 ### Some of the recent projects made for RSSchool: 
+
+[Coffee House Landing](https://res-coffee-house.netlify.app/)
+[Connector App for Chat](https://ekalape.github.io/Connector-chat-app/)
 [GraphiQL Custom Implementation](https://graphiqlrss.netlify.app/)             
 [Tron game](https://rsclone-tron-game.netlify.app/)             
 [Online zoo site](https://ekalape.github.io/online-zoo/online-zoo/pages/main/)            
