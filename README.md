@@ -8,7 +8,7 @@
 
 ### Some of the recent projects made for RSSchool: 
 
-[Custom Youtube Client](https://cus-yt-client.netlify.app/)
+[Custom Youtube Client](https://cus-yt-client.netlify.app/)  
 [Coffee House Landing](https://res-coffee-house.netlify.app/)  
 [Connector App for Chat](https://ekalape.github.io/Connector-chat-app/)  
 [GraphiQL Custom Implementation](https://graphiqlrss.netlify.app/)             
