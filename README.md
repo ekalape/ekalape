@@ -14,7 +14,7 @@
 [GraphiQL Custom Implementation](https://graphiqlrss.netlify.app/)             
 [Tron game](https://rsclone-tron-game.netlify.app/)             
 [Online zoo site](https://ekalape.github.io/online-zoo/online-zoo/pages/main/)            
-[Online-store team project](https://ekalape-viktorelenich-online-store.netlify.app/)            
+[Online-store team project](https://ekalape.github.io/online-store)            
 [SongBird quiz](https://ekalape.github.io/birdsQuiz/songbirds-quiz/intro-page/)            
 [Puzzle game](https://ekalape.github.io/puzzle/game)            
 [Photographer Portfolio](https://ekalape.github.io/photoPortfolio/)            
